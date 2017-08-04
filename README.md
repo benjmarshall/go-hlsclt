@@ -1,2 +1,2 @@
-# go-hlsclt
-A rewrite of the hlsclt tool in Go!
+# HLSCLT (Go)
+A rewrite of the [hlsclt](https://github.com/benjmarshall/hlsclt) tool in Go!
